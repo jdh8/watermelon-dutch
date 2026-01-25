@@ -9,6 +9,7 @@
     - [BTU 3-way checkback](1C/1M/BTU_CB.md)
     - [波蘭 2♦](1C/1M/2D.md)
 - [自然 1♦](1D.md)
+  - [自然 1M](1D/1M.md)
 - [自然 1♥](1H.md)
   - [自然 1♥-1♠](1H/1S.md)
   - [自然 1NT](1H/1NT.md)
