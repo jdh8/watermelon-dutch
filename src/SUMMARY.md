@@ -6,7 +6,7 @@
 - [荷蘭 1♣](1C.md)
   - [接力 1♦](1C/1D.md)
   - [自然 1M](1C/1M.md)
-    - [BTU 3-way checkback](1C/1M/BTU_CB.md)
+    - [Checkback Gladiator](1C/1M/CB_Gladiator.md)
     - [波蘭 2♦](1C/1M/2D.md)
 - [自然 1♦](1D.md)
   - [自然 1M](1D/1M.md)
