@@ -8,6 +8,7 @@
   - [自然 1M](1C/1M.md)
     - [Checkback Gladiator](1C/1M/CB_Gladiator.md)
     - [波蘭 2♦](1C/1M/2D.md)
+  - [自然無王](1C/1NT.md)
   - [反序 2♣](1C/2C.md)
 - [自然 1♦](1D.md)
   - [自然 1M](1D/1M.md)
