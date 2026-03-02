@@ -21,7 +21,7 @@
   - [迫叫 1NT](1S/1NT.md)
   - [二蓋一迫叫成局](1S/2X.md)
   - [Jacoby&ndash;Stenberg 2NT](1S/2NT.md)
-- [BTU 強無王](1NT.md)
+- [強無王](1NT.md)
   - [BTU Stayman 2♣](1NT/2C.md)
   - [BTU 高花轉換](1NT/2R.md)
 - [強 2♣](2C.md)
