@@ -17,7 +17,7 @@
 - **HCP**: Milton Work 眾所皆知的 4321 點力
 - **總牌值**: HCP + 牌形點（缺門 3 點、單張 2 點、雙張 1 點、短門有大牌折 1 點）
 - **Zar**: 6-4-2-1 + Zar 式牌形點（a + b + a &minus; d，字母代表每門由長到短的張數）
-- [**Fifths**](https://bridge.thomasoandrews.com/valuations/cardvaluesfor3nt.html):
+- [**Fifths**](https://bridge.thomasoandrews.com/bridge/valuations/cardvaluesfor3nt.html):
   4.0--2.8--1.8--1.0--0.4，為了無王合約尤其是 3NT 所調整的 HCP
 - **BUM-RAP**: 4.5--3--1.5--0.75--0.25，為了花色合約所調整的 HCP
 - **NLTC**: 每門缺失的 AKQ 分別計為 1.5--1.0--0.5 失磴
@@ -55,7 +55,7 @@ NLTC 評估一手牌還不錯，但是可加性有疑慮。比較適合開叫、
 
 - Jan Eric Larsson.  *Good, Better, Best: A comparison of bridge bidding
   systems and conventions by computer simulation*.  ISBN 978-1771402415
-- Thomas Andrews.  [Thomas's Bridge Fantasia](https://bridge.thomasoandrews.com/valuations/)
+- Thomas Andrews.  [Thomas's Bridge Fantasia](https://bridge.thomasoandrews.com/bridge/valuations/)
 - Bridge Base.  [GIB Bid Descriptions][GIB]
 
 ### 荷蘭梅花
