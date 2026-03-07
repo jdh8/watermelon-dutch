@@ -13,7 +13,6 @@
   - [競叫](1C/COMP_.md)
 - [自然 1♦](1D.md)
   - [自然 1M](1D/1M.md)
-    - [Gazzilli 1NT](1D/1M/1NT.md)
 - [自然 1♥](1H.md)
   - [自然 1♥-1♠](1H/1S.md)
   - [自然 1NT](1H/1NT.md)
