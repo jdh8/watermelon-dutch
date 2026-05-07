@@ -16,7 +16,6 @@
 
 - **HCP**: Milton Work 眾所皆知的 4321 點力
 - **總牌值**: HCP + 牌形點（缺門 3 點、單張 2 點、雙張 1 點、短門有大牌折 1 點）
-- **Zar**: 6-4-2-1 + Zar 式牌形點（a + b + a &minus; d，字母代表每門由長到短的張數）
 - [**Fifths**](https://bridge.thomasoandrews.com/bridge/valuations/cardvaluesfor3nt.html):
   4.0--2.8--1.8--1.0--0.4，為了無王合約尤其是 3NT 所調整的 HCP
 - **BUM-RAP**: 4.5--3--1.5--0.75--0.25，為了花色合約所調整的 HCP
