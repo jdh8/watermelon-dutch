@@ -1,8 +1,6 @@
 [book]
 authors = ["Chen-Pang He"]
-language = "zh-TW"
-src = "src"
-title = "西瓜荷蘭梅花"
+title = "Watermelon Dutch Doubleton"
 
 [output.html]
 additional-css = ["style.css"]
