@@ -1,5 +1,7 @@
 # 西瓜荷蘭梅花
 
+線上閱讀：<https://jdh8.github.io/watermelon-dutch-doubleton/>
+
 作者自從讀了 Jan Eric Larsson 的 *Good, Better, Best*
 之後，開始認真研究橋牌叫牌制度。為了推廣橋牌運動，以及方便台大橋藝社乃至台灣的橋牌愛好者參與各級賽事，我特地設計西瓜荷蘭梅花。本叫牌制度有以下特點：
 
