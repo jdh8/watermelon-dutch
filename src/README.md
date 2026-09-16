@@ -12,7 +12,8 @@ This book fits the following regulations:
 
 1. Green (natural) classification under the
    [WBF Systems Policy](https://www.worldbridge.org/regulations/wbf-systems-policy/)
-2. [ACBL Basic+ Chart](https://web2.acbl.org/documentLibrary/about/Convention-Charts.pdf)
+2. [ACBL Basic Chart](https://web2.acbl.org/documentLibrary/about/Convention-Charts.pdf)
+3. Optional agreements may require the ACBL Basic+ Chart.
 
 ## Notation
 
