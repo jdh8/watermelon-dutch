@@ -21,7 +21,7 @@ smart-punctuation = true
 [preprocessor.abbr]
 
 [preprocessor.abbr.list]
-BTU = "Bridge Taiwan University"
+ACBL = "American Contract Bridge League"
 COG = "choice of games"
 NLTC = "New Losing Trick Count"
 
