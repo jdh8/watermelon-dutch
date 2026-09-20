@@ -1,8 +1,7 @@
 # ![Watermelon Dutch Doubleton](favicon-7b08738f.svg)
 
 Instead of a full-fledged bidding system, Watermelon Dutch Doubleton is a
-minimalist plugin for 5-card major systems, specifically designed for 2/1 and
-SAYC.
+minimalist plugin for 5542 systems, specifically designed for 2/1 and SAYC.
 
 - **1♣ - 1♦** = catchall relay
 - **1♣ - 1M - 2♦** = artificial reverse
