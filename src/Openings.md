@@ -9,6 +9,10 @@
 | 2♣! | 21+, (5+♠♥ or 6+♦♣ or 24+)
 | 2NT | 21--23, 2--4♠, 2--4♥, 2--6♦, 2--6♣
 
+Prefer 1♦ to 1♣ when holding (xx)45 because there is hardly any way for a 1♣
+opener to show 4+♦ however strong.  This canapé deviates from standard natural
+bidding.
+
 The [ACBL Basic Chart][ACBL] forbids a natural 2NT from bearing a void or a
 singleton < Q.  Thus, 1♣♦ have to handle strong hands which are disqualified
 from 2NT and lack a rebid after the 2♣ opening.
