@@ -1,4 +1,4 @@
-# ![Watermelon Dutch Doubleton](favicon-222870ca.svg)
+# ![Watermelon Dutch Doubleton](favicon-53e8b75f.svg)
 
 Instead of a full-fledged bidding system, Watermelon Dutch Doubleton is a
 minimalist plugin for 5542 systems, specifically designed for 2/1 and SAYC.
