@@ -33,7 +33,7 @@ This book follows *Strawberry Polish Club* for [hand evaluation][eval],
 ### Dutch Doubleton
 
 - Dan Neil.  [Professional Dutch Doubleton Bidding System](https://bridgewithdan.com/product/professional-dutch-doubleton-bidding-system/)
-- [Sjoert Brink & Bas Drijver](https://www.bridge.nl/wp-content/uploads/2023/01/Lb1_Brink-Drijver.pdf).
+- [Sjoert Brink & Bas Drijver](https://web.archive.org/web/20230111200507/https://www.bridge.nl/wp-content/uploads/2023/01/Lb1_Brink-Drijver.pdf).
   (WBF convention card)
 - Rosalind Hengeveld.  [Dutch Doubleton](https://rosalind.home.xs4all.nl/bridge/2-over-1/index.htm)
 

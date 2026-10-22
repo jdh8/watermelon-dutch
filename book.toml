@@ -4,7 +4,7 @@ title = "Watermelon Dutch Doubleton"
 
 [output.html]
 additional-css = ["style.css"]
-site-url = "https://jdh8.github.io/watermelon-dutch-doubleton/"
+site-url = "https://jdh8.github.io/watermelon-dutch/"
 git-repository-url = "https://github.com/jdh8/watermelon-dutch-doubleton"
 edit-url-template = "https://github.com/jdh8/watermelon-dutch-doubleton/edit/main/{path}"
 smart-punctuation = true
